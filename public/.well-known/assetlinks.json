@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.Darna.darna_fixed_new",
+      "sha256_cert_fingerprints": [
+        "27:2C:EF:66:FE:94:29:3C:16:2E:64:DB:42:B9:29:21:D5:20:89:8D:A7:96:9D:19:BB:F0:2C:2C:40:FD"
+      ]
+    }
+  }
+]
